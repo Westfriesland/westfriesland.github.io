@@ -5,3 +5,7 @@ deploy:
   keep-history: true
   on:
     branch: master
+  local-dir: public
+  repo: Westfriesland/westfriesland.github.io
+  target_branch: master
+
